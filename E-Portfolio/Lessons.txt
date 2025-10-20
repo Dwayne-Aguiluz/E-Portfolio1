@@ -24,7 +24,7 @@
 <li>Saves time: one CSS file can control multiple pages. </li>
 <li> Improves accessibility and responsiveness. </li>
 </ul>
-<img src="Lesson1A.jpg" alt="History Of Css" width="600px" height="400px">
+<img src="Lesson1A.JPG" alt="History Of Css" width="600px" height="400px">
 <br>
 <h1> Benefits of CSS </h1>
 <ul class="Lesson">
@@ -45,7 +45,7 @@
 <li> Behavior Layer </li>
 <li> Content Layer </li>
 </ol>
-<img src="Lesson1B.jpg" alt="Layers of A webpage" width="600px" height="400px">
+<img src="Lesson1B.JPG" alt="Layers of A webpage" width="600px" height="400px">
 <h3 class="ICT"> Content layer </h3>
 <p> It is where you define and layout the text, images, animation, sound,video and everything you want to put in a web page with the use of tags. </p>
 <p> is the underlying HTML code of that page. It is a solid foundation of HTML creates a platform upon which a website can be created </p>
@@ -78,3 +78,4 @@
 </body>
 
 </html>
+
